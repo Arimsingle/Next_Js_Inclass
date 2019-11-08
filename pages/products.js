@@ -53,7 +53,6 @@ const ProductsPage = () => {
                     )
                 })
             }
-
             <style jsx>{`
         `}</style>
         </MainLayout>
